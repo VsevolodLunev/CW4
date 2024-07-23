@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 import requests
 
 
-class hh_api(ABC):
+class HhApi(ABC):
     """
     Абстрактный класс для получения вакансии с hh.ru
     """
@@ -12,7 +12,7 @@ class hh_api(ABC):
         pass
 
 
-class headhunter(hh_api):
+class HeadHunter(HhApi):
     """
     Класс для подключения к hh.ru
     """
