@@ -9,6 +9,7 @@ class Saver(ABC):
     """
     Абстрактный класс для записи в файл
     """
+
     def __init__(self):
         pass
 
@@ -20,7 +21,7 @@ class Saver(ABC):
         pass
 
     @abstractmethod
-    def save_file(self):
+    def save_file(self, data):
         """
         Запись файла
         """
@@ -41,7 +42,7 @@ class JsonSaver(Saver):
 
     def __init__(self):
         self.file_name = ""
-        self.abs_path = os.path.abspath("data.vacancies.json")
+        self.abs_path = os.path.abspath("data/vacancies.json")
 
     def read_file(self) -> None:
         with open(self.abs_path, "r", encoding="utf-8") as file:
