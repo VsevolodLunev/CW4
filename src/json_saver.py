@@ -41,6 +41,7 @@ class JsonSaver(Saver):
     """
 
     def __init__(self):
+       #super().__init__()
         self.file_name = ""
         self.abs_path = os.path.abspath("data/vacancies.json")
 

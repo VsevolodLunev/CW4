@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dde7825-283e-4a33-a7c1-fbc7d3d5bbaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CW4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/json_saver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hh_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/hh_api.py" afterDir="false" />
+    <list default="true" id="3dde7825-283e-4a33-a7c1-fbc7d3d5bbaa" name="Changes" comment="Реализация класса для записи в Json файл">
+      <change beforePath="$PROJECT_DIR$/.idea/CW4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CW4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/json_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/json_saver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vacancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vacancy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,10 +48,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.hh_api.executor": "Run",
+    "Python.json_saver.executor": "Run",
+    "Python.vacancy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
     "last_opened_file_path": "/Users/vsevolodlunev/PycharmProjects/CW4",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -94,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721741009773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Реализация класса для записи в Json файл">
+      <option name="closed" value="true" />
+      <created>1721743477605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721743477605</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" Дополнение Класса для записи в Json файл hh_api.ру. &#10; Добавление poetry.lock">
+      <option name="closed" value="true" />
+      <created>1721879580066</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721879580066</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +142,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="preparation" />
     <MESSAGE value="Реализация класса для работы с API HeadHunter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Реализация класса для работы с API HeadHunter" />
+    <MESSAGE value="Реализация класса для записи в Json файл" />
+    <MESSAGE value=" Дополнение Класса для записи в Json файл hh_api.ру. &#10; Добавление poetry.lock" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Дополнение Класса для записи в Json файл hh_api.ру. &#10; Добавление poetry.lock" />
   </component>
 </project>
