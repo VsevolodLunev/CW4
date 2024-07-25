@@ -1,0 +1,1787 @@
+{
+  "items": [
+    {
+      "id": "92687488",
+      "premium": true,
+      "name": "Менеджер по работе с клиентами (удалённо)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-25T11:26:56+0300",
+      "created_at": "2024-07-25T11:26:56+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=92687488",
+      "show_logo_in_search": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/92687488?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/92687488",
+      "relations": [],
+      "employer": {
+        "id": "5949696",
+        "name": "ProHealth",
+        "url": "https://api.hh.ru/employers/5949696",
+        "alternate_url": "https://hh.ru/employer/5949696",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1137607.png",
+          "240": "https://img.hhcdn.ru/employer-logo/6171014.png",
+          "90": "https://img.hhcdn.ru/employer-logo/6171013.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5949696",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Проводной интернет/ wi-fi со скоростью от 5 Mb/s (мобильный интернет не подойдет). Свободное владение русским языком, грамотная речь...",
+        "responsibility": "Никакого поиска клиентов - только обработка горячих заявок. Только целевая аудитория - клиент сам оставляет заявку на сайте с товаром, который ему..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "83",
+          "name": "Оператор call-центра, специалист контактного центра"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "95631987",
+      "premium": false,
+      "name": "Менеджер по развитию B2B клиентов (IT решения)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 70000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Воронцовская улица",
+        "building": "35А",
+        "lat": 55.7345759464161,
+        "lng": 37.6624218981474,
+        "description": null,
+        "raw": "Москва, Воронцовская улица, 35А",
+        "metro": {
+          "station_name": "Крестьянская застава",
+          "line_name": "Люблинско-Дмитровская",
+          "station_id": "10.63",
+          "line_id": "10",
+          "lat": 55.732278,
+          "lng": 37.665325
+        },
+        "metro_stations": [
+          {
+            "station_name": "Крестьянская застава",
+            "line_name": "Люблинско-Дмитровская",
+            "station_id": "10.63",
+            "line_id": "10",
+            "lat": 55.732278,
+            "lng": 37.665325
+          },
+          {
+            "station_name": "Пролетарская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.62",
+            "line_id": "7",
+            "lat": 55.731546,
+            "lng": 37.666917
+          }
+        ],
+        "id": "5268990"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-12T08:33:50+0300",
+      "created_at": "2024-07-12T08:33:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95631987",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/95631987?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/95631987",
+      "relations": [],
+      "employer": {
+        "id": "3177",
+        "name": "Первый Бит",
+        "url": "https://api.hh.ru/employers/3177",
+        "alternate_url": "https://hh.ru/employer/3177",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/635336.png",
+          "90": "https://img.hhcdn.ru/employer-logo/2982496.png",
+          "240": "https://img.hhcdn.ru/employer-logo/2982497.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3177",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в сфере продаж, опыт работы в ИТ-индустрии будет большим плюсом, но не обязателен. Готовность к эффективному взаимодействию...",
+        "responsibility": "Работа с текущей клиентской базой: продажи, допродажи, повышение лояльности клиентов, выстраивание и поддержание долгосрочных отношений. Повышение профессиональных компетенций в рамках..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "68875675",
+      "premium": false,
+      "name": "Администратор городской поликлиники (м. Кропоткинская)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 70260,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Сокольническая линия",
+        "building": "метро Кропоткинская",
+        "lat": 55.745073,
+        "lng": 37.603487,
+        "description": null,
+        "raw": "Москва, Сокольническая линия, метро Кропоткинская",
+        "metro": null,
+        "metro_stations": [],
+        "id": "12282284"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-12T08:42:31+0300",
+      "created_at": "2024-07-12T08:42:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68875675",
+      "branding": {
+        "type": "CONSTRUCTOR",
+        "tariff": "BASIC"
+      },
+      "show_logo_in_search": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68875675?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68875675",
+      "relations": [],
+      "employer": {
+        "id": "3390296",
+        "name": "ГБУ МФЦ города Москвы Мои документы",
+        "url": "https://api.hh.ru/employers/3390296",
+        "alternate_url": "https://hh.ru/employer/3390296",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/905046.png",
+          "90": "https://img.hhcdn.ru/employer-logo/4060871.png",
+          "240": "https://img.hhcdn.ru/employer-logo/4060872.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3390296",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Иметь высшее/ среднее специальное образование, либо учиться на последних курсах ВУЗа. Грамотно говорить и писать. Работать в ПК на уровне...",
+        "responsibility": "Встречать посетителей медицинских организаций (детских/взрослых поликлиник, центров амбулаторной онкологической помощи). Консультировать и информировать посетителей. Помогать посетителям с записью на..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "8",
+          "name": "Администратор"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "98178009",
+      "premium": false,
+      "name": "Оператор call-центра",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2759",
+        "name": "Ташкент",
+        "url": "https://api.hh.ru/areas/2759"
+      },
+      "salary": {
+        "from": null,
+        "to": 4500000,
+        "currency": "UZS",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ташкент",
+        "street": "Яшнободский район",
+        "building": "махалля Чулпон",
+        "lat": 41.305373,
+        "lng": 69.302293,
+        "description": null,
+        "raw": "Ташкент, Яшнободский район, махалля Чулпон",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13982896"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-15T09:50:37+0300",
+      "created_at": "2024-07-15T09:50:37+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98178009",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/98178009?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/98178009",
+      "relations": [],
+      "employer": {
+        "id": "10011655",
+        "name": "CALLTRAFFIC",
+        "url": "https://api.hh.ru/employers/10011655",
+        "alternate_url": "https://hh.ru/employer/10011655",
+        "logo_urls": {
+          "90": "https://img.hhcdn.ru/employer-logo/6334614.jpeg",
+          "original": "https://img.hhcdn.ru/employer-logo-original/1178547.jpg",
+          "240": "https://img.hhcdn.ru/employer-logo/6334615.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10011655",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "желание общаться и помогать людям. - грамотную русскую устную и письменную речь. Без опыта? Не переживай, всему научим!",
+        "responsibility": "Принимать входящие звонки. - Консультировать действующих и потенциальных клиентов банка по телефону."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "83",
+          "name": "Оператор call-центра, специалист контактного центра"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "104236464",
+      "premium": false,
+      "name": "Диспетчер чатов (в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-19T14:53:17+0300",
+      "created_at": "2024-07-19T14:53:17+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104236464",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/104236464?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/104236464",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "103080033",
+      "premium": false,
+      "name": "Администратор в студию красоты (онлайн)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 75000,
+        "currency": "KZT",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-01T20:16:14+0300",
+      "created_at": "2024-07-01T20:16:14+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103080033",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/103080033?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/103080033",
+      "relations": [],
+      "employer": {
+        "id": "5996490",
+        "name": "Конакбаева Ж.К.",
+        "url": "https://api.hh.ru/employers/5996490",
+        "alternate_url": "https://hh.ru/employer/5996490",
+        "logo_urls": {
+          "240": "https://img.hhcdn.ru/employer-logo/6804971.png",
+          "90": "https://img.hhcdn.ru/employer-logo/6804970.png",
+          "original": "https://img.hhcdn.ru/employer-logo-original/1296171.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5996490",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Нам нужная очень ответственная, шустрая, любящая общаться с людьми. Опыт работы администратором, онлайн консультантом необязателен, но будет плюсом. ",
+        "responsibility": "Коммуникация с клиентами и мастерами. Создание записей. Работа с CRM системой. Отработка возражений и решение конфликтных ситуаций. Составление мини отчетов."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "8",
+          "name": "Администратор"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "103557623",
+      "premium": false,
+      "name": "Менеджер по продажам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 300000,
+        "to": 500000,
+        "currency": "KZT",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Алматы",
+        "street": "улица Кудерина",
+        "building": "65Б",
+        "lat": 43.271392,
+        "lng": 76.886841,
+        "description": null,
+        "raw": "Алматы, улица Кудерина, 65Б",
+        "metro": null,
+        "metro_stations": [],
+        "id": "16083660"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-09T09:03:17+0300",
+      "created_at": "2024-07-09T09:03:17+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103557623",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/103557623?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/103557623",
+      "relations": [],
+      "employer": {
+        "id": "11190356",
+        "name": "MSC Trade",
+        "url": "https://api.hh.ru/employers/11190356",
+        "alternate_url": "https://hh.ru/employer/11190356",
+        "logo_urls": {
+          "90": "https://img.hhcdn.ru/employer-logo/6840418.jpeg",
+          "original": "https://img.hhcdn.ru/employer-logo-original/1305039.jpg",
+          "240": "https://img.hhcdn.ru/employer-logo/6840419.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11190356",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Грамотная казахская и русская речь. Высшее образование. Коммуникабельность. Стрессоустойчивость. Работа с возражениями. Нацеленность на результат. Уверенный пользователь ПК.",
+        "responsibility": "Привлечение новых клиентов. Размещение рекламы на интернет площадках."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "35618755",
+      "premium": false,
+      "name": "Риэлтор (с окладом)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "26",
+        "name": "Воронеж",
+        "url": "https://api.hh.ru/areas/26"
+      },
+      "salary": {
+        "from": 60000,
+        "to": 170000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Воронеж",
+        "street": "Московский проспект",
+        "building": "90",
+        "lat": 51.7065532686972,
+        "lng": 39.182561029429,
+        "description": null,
+        "raw": "Воронеж, Московский проспект, 90",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6305379"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-24T13:31:28+0300",
+      "created_at": "2024-07-24T13:31:28+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=35618755",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/35618755?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/35618755",
+      "relations": [],
+      "employer": {
+        "id": "702792",
+        "name": "4 Комнаты",
+        "url": "https://api.hh.ru/employers/702792",
+        "alternate_url": "https://hh.ru/employer/702792",
+        "logo_urls": {
+          "90": "https://img.hhcdn.ru/employer-logo/1527634.jpeg",
+          "original": "https://img.hhcdn.ru/employer-logo-original/271276.jpg",
+          "240": "https://img.hhcdn.ru/employer-logo/1527635.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=702792",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование. Опыт работы в продажах желателен, но не обязателен. Уверенный пользователь ПК. Грамотная устная и письменная речь. Коммуникабельность. Ответственность.",
+        "responsibility": "Активный поиск объектов и клиентов. Ведение телефонных и прямых переговоров с клиентами. Презентация услуг компании. Сопровождение сделки купли-продажи. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "6",
+          "name": "Агент по недвижимости"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "49451223",
+      "premium": false,
+      "name": "Администратор-кассир в кафе",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 35000,
+        "to": 55000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-19T09:03:06+0300",
+      "created_at": "2024-07-19T09:03:06+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=49451223",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/49451223?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/49451223",
+      "relations": [],
+      "employer": {
+        "id": "1057362",
+        "name": "Автосуши и Автопицца",
+        "url": "https://api.hh.ru/employers/1057362",
+        "alternate_url": "https://hh.ru/employer/1057362",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/899970.png",
+          "90": "https://img.hhcdn.ru/employer-logo/4040567.png",
+          "240": "https://img.hhcdn.ru/employer-logo/4040568.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1057362",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы не требуется, важно только твое желание обучаться и развиваться. Умение оперативно работать с кассой, чтобы гостям было удобно...",
+        "responsibility": "Искренняя и радушная улыбка для наших гостей, чтобы создать приятную и гостеприимную атмосферу. Оказывать помощь гостям в выборе блюд и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "51",
+          "name": "Кассир-операционист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "89669987",
+      "premium": false,
+      "name": "Администратор фитнес-клуба",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 60000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-25T09:41:03+0300",
+      "created_at": "2024-07-25T09:41:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89669987",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/89669987?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/89669987",
+      "relations": [],
+      "employer": {
+        "id": "9035864",
+        "name": "Найдем",
+        "url": "https://api.hh.ru/employers/9035864",
+        "alternate_url": "https://hh.ru/employer/9035864",
+        "logo_urls": {
+          "240": "https://img.hhcdn.ru/employer-logo/5566313.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5566312.jpeg",
+          "original": "https://img.hhcdn.ru/employer-logo-original/986375.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9035864",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высокий уровень обучаемости. Коммуникабельность и клиентоориентированность. Презентабельный внешний вид. Грамотная устная и письменная речь. Навыки продаж будут Вашим преимуществом.",
+        "responsibility": "Ведение записи клиентов на тренировки. Встреча гостей и регистрация в программе клуба. Работа со входящими/исходящими звонками. Коммуникация с клиентами. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "8",
+          "name": "Администратор"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "46770341",
+      "premium": false,
+      "name": "Ведущий специалист отдела продаж",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "246",
+        "name": "Норильск",
+        "url": "https://api.hh.ru/areas/246"
+      },
+      "salary": {
+        "from": 120000,
+        "to": 250000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Норильск",
+        "street": "Ленинский проспект",
+        "building": "16",
+        "lat": 69.346582,
+        "lng": 88.20662,
+        "description": null,
+        "raw": "Норильск, Ленинский проспект, 16",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7276625"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-25T11:31:32+0300",
+      "created_at": "2024-07-25T11:31:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46770341",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/46770341?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46770341",
+      "relations": [],
+      "employer": {
+        "id": "6032019",
+        "name": "Этажи Норильск",
+        "url": "https://api.hh.ru/employers/6032019",
+        "alternate_url": "https://hh.ru/employer/6032019",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1204008.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6436482.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/6436481.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6032019",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в продажах или переговорах. Умение работать с большим объемом информации. Стремление развиваться в профессии и карьере. ",
+        "responsibility": "Работу в международной сети с возможностью перевода в другие филиалы. Поддержание актуальной клиентской базы. Анализ рынка и консультации для клиентов. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "104252992",
+      "premium": false,
+      "name": "Оператор на входящие сообщения и звонки (в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-19T18:22:22+0300",
+      "created_at": "2024-07-19T18:22:22+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104252992",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/104252992?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/104252992",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "104253026",
+      "premium": false,
+      "name": "Менеджер поддержки Яндекс (звонки, чаты)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-19T18:23:43+0300",
+      "created_at": "2024-07-19T18:23:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104253026",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/104253026?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/104253026",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "104236285",
+      "premium": false,
+      "name": "Менеджер чатов (в Яндекс)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-19T14:51:47+0300",
+      "created_at": "2024-07-19T14:51:47+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104236285",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/104236285?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/104236285",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "89180129",
+      "premium": false,
+      "name": "Мерчандайзер визитный (Автовокзал, Юго-запад, Вторчермет)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "Екатеринбург",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-14T00:48:11+0300",
+      "created_at": "2024-07-14T00:48:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89180129",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/89180129?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/89180129",
+      "relations": [],
+      "employer": {
+        "id": "2603304",
+        "name": "TRproject",
+        "url": "https://api.hh.ru/employers/2603304",
+        "alternate_url": "https://hh.ru/employer/2603304",
+        "logo_urls": {
+          "240": "https://img.hhcdn.ru/employer-logo/3454278.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3454277.png",
+          "original": "https://img.hhcdn.ru/employer-logo-original/753330.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2603304",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Рассматриваем кандидатов без опыта работы, готовых к обучению. Актуальная медицинская книжка (желательна, но не обязательна). Желательно наличие личного автомобиля (разъездной...",
+        "responsibility": "Посещение торговых сетей: Верный, Монетка, Лион, Пятерочка, Кировский по маршруту. Правильное размещение продукции на полках, ее ротация и обеспечение доступности..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "77",
+          "name": "Мерчандайзер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "104470517",
+      "premium": false,
+      "name": "Менеджер голосовой поддержки в Яндекс",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "113",
+        "name": "Россия",
+        "url": "https://api.hh.ru/areas/113"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 44000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-23T16:33:43+0300",
+      "created_at": "2024-07-23T16:33:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104470517",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/104470517?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/104470517",
+      "relations": [],
+      "employer": {
+        "id": "9498120",
+        "name": "Яндекс Команда для бизнеса",
+        "url": "https://api.hh.ru/employers/9498120",
+        "alternate_url": "https://hh.ru/employer/9498120",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
+        "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "95799432",
+      "premium": false,
+      "name": "Менеджер по работе с клиентами!",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "99",
+        "name": "Уфа",
+        "url": "https://api.hh.ru/areas/99"
+      },
+      "salary": {
+        "from": 42000,
+        "to": 46000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Уфа",
+        "street": "улица Маршала Жукова",
+        "building": "10",
+        "lat": 54.770162,
+        "lng": 56.059599,
+        "description": null,
+        "raw": "Уфа, улица Маршала Жукова, 10",
+        "metro": null,
+        "metro_stations": [],
+        "id": "14476746"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-24T07:27:29+0300",
+      "created_at": "2024-07-24T07:27:29+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95799432",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/95799432?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/95799432",
+      "relations": [],
+      "employer": {
+        "id": "2844603",
+        "name": "Рамазанова Гульнара Альфритовна",
+        "url": "https://api.hh.ru/employers/2844603",
+        "alternate_url": "https://hh.ru/employer/2844603",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2844603",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Ответственность, коммуникабельность и стремление к саморазвитию. Грамотная устная и письменная речь. Желание обучаться и повышать свои профессиональные навыки.",
+        "responsibility": "Проведение звонков по предоставленной базе клиентов с целью установления эффективного контакта. Следование профессиональному скрипту общения с клиентами для достижения оптимальных..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "80643946",
+      "premium": false,
+      "name": "Оператор колл-центра",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "56",
+        "name": "Курск",
+        "url": "https://api.hh.ru/areas/56"
+      },
+      "salary": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Курск",
+        "street": "Ендовищенская улица",
+        "building": "21",
+        "lat": 51.730584,
+        "lng": 36.185981,
+        "description": null,
+        "raw": "Курск, Ендовищенская улица, 21",
+        "metro": null,
+        "metro_stations": [],
+        "id": "12455795"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-02T11:40:55+0300",
+      "created_at": "2024-07-02T11:40:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80643946",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/80643946?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/80643946",
+      "relations": [],
+      "employer": {
+        "id": "3786114",
+        "name": "Happy Phone",
+        "url": "https://api.hh.ru/employers/3786114",
+        "alternate_url": "https://hh.ru/employer/3786114",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1120106.png",
+          "90": "https://img.hhcdn.ru/employer-logo/6101017.png",
+          "240": "https://img.hhcdn.ru/employer-logo/6101018.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3786114",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы не требуется, всему научим. Пользователь ПК.",
+        "responsibility": "Исходящие звонки по нашей базе."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "83",
+          "name": "Оператор call-центра, специалист контактного центра"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "95966127",
+      "premium": false,
+      "name": "Официант в ресторан грузинской кухни",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 140000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": null,
+        "metro": {
+          "station_name": "Пушкинская",
+          "line_name": "Таганско-Краснопресненская",
+          "station_id": "7.124",
+          "line_id": "7",
+          "lat": 55.765607,
+          "lng": 37.604356
+        },
+        "metro_stations": [
+          {
+            "station_name": "Пушкинская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.124",
+            "line_id": "7",
+            "lat": 55.765607,
+            "lng": 37.604356
+          },
+          {
+            "station_name": "Тверская",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.122",
+            "line_id": "2",
+            "lat": 55.765343,
+            "lng": 37.603918
+          },
+          {
+            "station_name": "Чеховская",
+            "line_name": "Серпуховско-Тимирязевская",
+            "station_id": "9.123",
+            "line_id": "9",
+            "lat": 55.765747,
+            "lng": 37.608493
+          }
+        ],
+        "id": "3415804"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-04T17:27:00+0300",
+      "created_at": "2024-07-04T17:27:00+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95966127",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/95966127?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/95966127",
+      "relations": [],
+      "employer": {
+        "id": "2285008",
+        "name": "Ginza Project",
+        "url": "https://api.hh.ru/employers/2285008",
+        "alternate_url": "https://hh.ru/employer/2285008",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/639252.PNG",
+          "90": "https://img.hhcdn.ru/employer-logo/2998160.png",
+          "240": "https://img.hhcdn.ru/employer-logo/2998161.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2285008",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание стандартов сервиса. Опыт работы строго от 1 года! Грамотная речь.",
+        "responsibility": "Сервировка столов. Обслуживание гостей согласно стандартам сервиса. Консультация гостей по меню. Помощь в выборе блюд и напитков. Создание в заведении..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "89",
+          "name": "Официант, бармен, бариста"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "99166963",
+      "premium": false,
+      "name": "Стажер в отдел маркетинга",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2024-07-24T11:51:19+0300",
+      "created_at": "2024-07-24T11:51:19+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99166963",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/99166963?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/99166963",
+      "relations": [],
+      "employer": {
+        "id": "10854989",
+        "name": "Reach Media",
+        "url": "https://api.hh.ru/employers/10854989",
+        "alternate_url": "https://hh.ru/employer/10854989",
+        "logo_urls": {
+          "240": "https://img.hhcdn.ru/employer-logo/6599426.png",
+          "90": "https://img.hhcdn.ru/employer-logo/6599425.png",
+          "original": "https://img.hhcdn.ru/employer-logo-original/1244749.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10854989",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Позитивный настрой и активная жизненная позиция. Амбициозность и нацеленность на результат. Коммуникабельность. Желание развиваться в новой для себе сфере. ",
+        "responsibility": "Сбор и подготовка материалов для презентаций клиентам. Участие в подготовке и запуске рекламы для Заказчиков. Коммуникация со всеми отделами компании..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 1631492,
+  "pages": 100,
+  "page": 0,
+  "per_page": 20,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true"
+}

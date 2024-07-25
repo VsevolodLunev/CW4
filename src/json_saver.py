@@ -35,13 +35,12 @@ class Saver(ABC):
         pass
 
 
-class JsonSaver(Saver):
+class JsonSaver(ABC):
     """
     Класс для записи в json-файл
     """
 
     def __init__(self):
-       #super().__init__()
         self.file_name = ""
         self.abs_path = os.path.abspath("data/vacancies.json")
 

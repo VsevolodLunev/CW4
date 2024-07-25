@@ -18,7 +18,7 @@ class Vacancy:
         """
         return (f"{self.name}\n"
                 f"Город: {self.area}\n"
-                f"Зарплата: {self.salary if self.salary else "Не указана"}\n"
+                f"Зарплата: {self.salary if self.salary else "Не указана"} \n"
                 f"E-mail: {self.url}\n"
                 f"Требования: {self.snippet}\n")
 
