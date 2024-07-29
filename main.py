@@ -1,5 +1,5 @@
-from src.utils import UserInteraction
+from src.user_interactive import UserInteractive
 
 
 if __name__ == "__main__":
-    UserInteraction.user_interaction(self=None)
+    UserInteractive.user_interactive(self=None)

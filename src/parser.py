@@ -3,23 +3,24 @@ from abc import ABC, abstractmethod
 import requests
 
 
-class HhApi(ABC):
+class Parser(ABC):
     """
-    Абстрактный класс для получения вакансии с hh.ru
+    Родительским класс, который  необходимо реализовать
     """
     @abstractmethod
     def load_vacancies(self):
         pass
 
 
-class HeadHunter(HhApi):
+class HH(Parser):
     """
-    Класс для подключения к hh.ru
+    Класс для работы с API HeadHunter
+
     """
     def __init__(self, keyword: str):
         self.url = 'https://api.hh.ru/vacancies'
         self.headers = {'User-Agent': 'HH-User-Agent'}
-        self.params = {'text': keyword, 'Page': 0, 'per_page': 100}
+        self.params = {'text': keyword, 'page': 0, 'per_page': 100}
 
     def load_vacancies(self) -> list[dict]:
         vacancies = []

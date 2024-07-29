@@ -1,5 +1,5 @@
 import pytest
-from src.utils import UserInteraction
+from src.user_interactive import UserInteractive
 from src.vacancy import Vacancy
 
 
@@ -8,7 +8,7 @@ def test():
     """
     Текстура создает 10 экземпляров тестовых вакансий
     """
-    test = UserInteraction("name")
+    test = UserInteractive("name")
     test_list =[]
     for i in range(10):
         vac = Vacancy(
@@ -22,22 +22,22 @@ def test():
     return test
 
 
-def test_get_top_from_salary(test):
+def test_get_top_n_from_salary(test):
     """
     Тестирование варианта, где на вход метода подается пустой список
     """
-    assert UserInteraction.get_top_from_salary(test, 0) == []
+    assert UserInteractive.get_top_n_for_salary(test, 0) == []
 
 
-def test_get_top_from_salary_2(test):
+def test_get_top_n_from_salary_2(test):
     """
     Тестирование варианта, где на вход метода подаются 5 вакансий
     """
-    assert len(UserInteraction.get_top_from_salary(test, 5)) == 5
+    assert len(UserInteractive.get_top_n_for_salary(test, 5)) == 5
 
 
-def test_get_top_from_salary_3(test):
+def test_get_top_n_from_salary_3(test):
     """
     Тестирование зарплаты в последней тестовой вакансии
     """
-    assert UserInteraction.get_top_from_salary(test, 1)[0].salary == 9000
+    assert UserInteractive.get_top_n_for_salary(test, 1)[0].salary == 9000

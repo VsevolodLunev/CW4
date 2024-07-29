@@ -2,10 +2,10 @@ import json
 import os.path
 from abc import ABC, abstractmethod
 
-from src.hh_api import HeadHunter
+from src.parser import HH
 
 
-class Saver(ABC):
+class FileWork(ABC):
     """
     Абстрактный класс для записи в файл
     """
@@ -35,7 +35,7 @@ class Saver(ABC):
         pass
 
 
-class JsonSaver(ABC):
+class WorkWithJason(ABC):
     """
     Класс для записи в json-файл
     """
@@ -50,6 +50,8 @@ class JsonSaver(ABC):
 
     def save_file(self, data: list[dict]) -> None:
         with open(self.abs_path, "w", encoding="utf-8") as file:
+            """res = json.load(file)
+            res.append(data)"""
             json.dump(data, file, ensure_ascii=False, indent=4)
 
     def delete_file(self) -> None:

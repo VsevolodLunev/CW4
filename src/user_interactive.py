@@ -1,13 +1,14 @@
 import sys
-from src.json_saver import JsonSaver
-from src.hh_api import HeadHunter
+from src.json_worker import WorkWithJason
+from src.parser import HH
 from src.vacancy import Vacancy
 
 
-class UserInteraction(JsonSaver):
+class UserInteractive(WorkWithJason):
     """
     Класс, обеспечивающий взаимодействие с пользователем
     """
+
     def __init__(self, user_name: str):
         super().__init__()
         self.user_name = user_name
@@ -19,26 +20,26 @@ class UserInteraction(JsonSaver):
         Получение с сайта HH списка вакансий
         """
 
-        hh = HeadHunter(keyword)
+        hh = HH(keyword)
         return hh.load_vacancies()
-
 
     def get_vacancies_list_from_file(self) -> list[dict]:
         """
         Получение из файла списка вакансий
         """
 
-        work_file = JsonSaver()
+        work_file = WorkWithJason()
         self.vacancies_list = []
         for vac in work_file.read_file():
             self.vacancies_list.append(vac)
         return self.vacancies_list
 
-    def get_top_from_salary(self, n: int) -> list[dict]:
+    def get_top_n_for_salary(self, n: int) -> list[dict]:
         """
         Получение заданного пользователем количества вакансий с сортировкой
-        по уровню (с убыванием)
+        по уровню зарплат (с убыванием)
         """
+
         vac_filter = []
         for vac in self.vacancies_list:
             vac_filter.append(vac)
@@ -50,7 +51,8 @@ class UserInteraction(JsonSaver):
         """
         Получение списка вакансий по заданному ключевому слову
         """
-        keywords = input("Введите ключевое слово: ")
+
+        keywords = input("Введите ключевое слово:  ")  # .split() сделано для одного
         print()
         res = []
         for vacancy in self.vacancies_list:
@@ -60,26 +62,26 @@ class UserInteraction(JsonSaver):
         return res
 
     @staticmethod
-    def user_interaction(self):
+    def user_interactive(self):
         """
         Функция для взаимодействия с пользователем
         """
         print("Hello, user")
         user_name = input("Как ваше имя?  ")
-        user = UserInteraction(user_name)
+        user = UserInteractive(user_name)
 
-        keyword = input("Введите запроc (ключевое слово для поиска вакансий на HH): ")
+        keyword = input("Введите запрос (ключевое слово для поиска вакансий на HH): ")
 
         user.save_file(user.get_vacancies_list(keyword))
 
         YesNo = input("\nФайл с вакансиями сформирован.\nУдалить файл с найденными вакансиями? "
-                      "\nУдаление приведет к выходу из программы!\n"
+                      "\nЕсли удаляем, то выходим из программы!\n"
                       "(Д/д, Y/y - удаляем и выходим, Н/н, N/n - продолжаем работу): ")
         if YesNo == "Y" or YesNo == "y" or YesNo == "Д" or YesNo == "д":
             user.delete_file()
             sys.exit()
 
-        n = int(input("/nСколько вакансий вывести на экран (введите число): "))
+        n = int(input("\nСколько вакансий вывести на экран (введите число): "))
         print()
 
         user.get_vacancies_list_from_file()
@@ -89,8 +91,8 @@ class UserInteraction(JsonSaver):
             new_vac_list.append(vac)
 
         user.vacancies_list = new_vac_list
-        user.get_top_from_salary(n)
-        for vacancy in user.get_top_from_salary(n):
+        user.get_top_n_for_salary(n)
+        for vacancy in user.get_top_n_for_salary(n):
             print(vacancy)
             print()
 
