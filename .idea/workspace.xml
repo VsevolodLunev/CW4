@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dde7825-283e-4a33-a7c1-fbc7d3d5bbaa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data/vacancies.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/vacancies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/json_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/json_worker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user_interactive.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_interactive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vacancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vacancy.py" afterDir="false" />
+    <list default="true" id="3dde7825-283e-4a33-a7c1-fbc7d3d5bbaa" name="Changes" comment="Игнорируемые файлы">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CW4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CW4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="experimental" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,20 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_user_interaction.py.executor": "Run",
-    "Python.hh_api.executor": "Run",
-    "Python.json_saver.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.utils.executor": "Run",
-    "Python.vacancy.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "/Users/vsevolodlunev/PycharmProjects/CW4",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_user_interaction.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hh_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_saver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vacancy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vsevolodlunev/PycharmProjects/CW4&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -172,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722620958590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Игнорируемые файлы">
+      <option name="closed" value="true" />
+      <created>1722622902637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722622902637</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Игнорируемые файлы">
+      <option name="closed" value="true" />
+      <created>1722622954887</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722622954887</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
