@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dde7825-283e-4a33-a7c1-fbc7d3d5bbaa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data/vacancies.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/vacancies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/json_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/json_worker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user_interactive.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_interactive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vacancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vacancy.py" afterDir="false" />
+    <list default="true" id="3dde7825-283e-4a33-a7c1-fbc7d3d5bbaa" name="Changes" comment="Игнорируемые файлы">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +51,9 @@
     "Python.utils.executor": "Run",
     "Python.vacancy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "experimental",
     "last_opened_file_path": "/Users/vsevolodlunev/PycharmProjects/CW4",
+    "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
