@@ -52,7 +52,7 @@ class UserInteractive(WorkWithJason):
         Получение списка вакансий по заданному ключевому слову
         """
 
-        keywords = input("Введите ключевое слово:  ")  # .split() сделано для одного
+        keywords = input("Введите ключевое слово:  ")
         print()
         res = []
         for vacancy in self.vacancies_list:
@@ -74,10 +74,10 @@ class UserInteractive(WorkWithJason):
 
         user.save_file(user.get_vacancies_list(keyword))
 
-        YesNo = input("\nФайл с вакансиями сформирован.\nУдалить файл с найденными вакансиями? "
+        yesno = input("\nФайл с вакансиями сформирован.\nУдалить файл с найденными вакансиями? "
                       "\nЕсли удаляем, то выходим из программы!\n"
                       "(Д/д, Y/y - удаляем и выходим, Н/н, N/n - продолжаем работу): ")
-        if YesNo == "Y" or YesNo == "y" or YesNo == "Д" or YesNo == "д":
+        if yesno == "Y" or yesno == "y" or yesno == "Д" or yesno == "д":
             user.delete_file()
             sys.exit()
 

@@ -2,8 +2,6 @@ import json
 import os.path
 from abc import ABC, abstractmethod
 
-from src.parser import HH
-
 
 class FileWork(ABC):
     """

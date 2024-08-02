@@ -58,7 +58,7 @@ class Vacancy:
             else:
                 salary = 0
         else:
-            salary = 0  # "Не указана"
+            salary = 0
         url = vacancy.get("url")
         if vacancy.get("snippet").get("responsibility") is not None:
             snippet = vacancy.get("snippet").get("responsibility")
